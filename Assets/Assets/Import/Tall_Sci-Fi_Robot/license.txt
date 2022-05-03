@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tall Sci-Fi Robot
+* source:	https://sketchfab.com/3d-models/tall-sci-fi-robot-b6e489a164274fe9a5b854b8b92d08ad
+* author:	Steve Schnell (https://sketchfab.com/steveschnell)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tall Sci-Fi Robot" (https://sketchfab.com/3d-models/tall-sci-fi-robot-b6e489a164274fe9a5b854b8b92d08ad) by Steve Schnell (https://sketchfab.com/steveschnell) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

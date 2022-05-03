@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tennis Avatar
+* source:	https://sketchfab.com/3d-models/tennis-avatar-e86828f29fd3400e9445037ebb870c4c
+* author:	kingoftigers12345 (https://sketchfab.com/kingoftigers12345)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tennis Avatar" (https://sketchfab.com/3d-models/tennis-avatar-e86828f29fd3400e9445037ebb870c4c) by kingoftigers12345 (https://sketchfab.com/kingoftigers12345) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
